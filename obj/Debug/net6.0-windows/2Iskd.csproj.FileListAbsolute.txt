@@ -1,0 +1,17 @@
+C:\Users\slava\source\repos\2Iskd\2Iskd\bin\Debug\net6.0-windows\2Iskd.exe
+C:\Users\slava\source\repos\2Iskd\2Iskd\bin\Debug\net6.0-windows\2Iskd.deps.json
+C:\Users\slava\source\repos\2Iskd\2Iskd\bin\Debug\net6.0-windows\2Iskd.runtimeconfig.json
+C:\Users\slava\source\repos\2Iskd\2Iskd\bin\Debug\net6.0-windows\2Iskd.dll
+C:\Users\slava\source\repos\2Iskd\2Iskd\bin\Debug\net6.0-windows\2Iskd.pdb
+C:\Users\slava\source\repos\2Iskd\2Iskd\obj\Debug\net6.0-windows\2Iskd.csproj.AssemblyReference.cache
+C:\Users\slava\source\repos\2Iskd\2Iskd\obj\Debug\net6.0-windows\_2Iskd.Form1.resources
+C:\Users\slava\source\repos\2Iskd\2Iskd\obj\Debug\net6.0-windows\2Iskd.csproj.GenerateResource.cache
+C:\Users\slava\source\repos\2Iskd\2Iskd\obj\Debug\net6.0-windows\2Iskd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slava\source\repos\2Iskd\2Iskd\obj\Debug\net6.0-windows\2Iskd.AssemblyInfoInputs.cache
+C:\Users\slava\source\repos\2Iskd\2Iskd\obj\Debug\net6.0-windows\2Iskd.AssemblyInfo.cs
+C:\Users\slava\source\repos\2Iskd\2Iskd\obj\Debug\net6.0-windows\2Iskd.csproj.CoreCompileInputs.cache
+C:\Users\slava\source\repos\2Iskd\2Iskd\obj\Debug\net6.0-windows\2Iskd.dll
+C:\Users\slava\source\repos\2Iskd\2Iskd\obj\Debug\net6.0-windows\refint\2Iskd.dll
+C:\Users\slava\source\repos\2Iskd\2Iskd\obj\Debug\net6.0-windows\2Iskd.pdb
+C:\Users\slava\source\repos\2Iskd\2Iskd\obj\Debug\net6.0-windows\2Iskd.genruntimeconfig.cache
+C:\Users\slava\source\repos\2Iskd\2Iskd\obj\Debug\net6.0-windows\ref\2Iskd.dll
