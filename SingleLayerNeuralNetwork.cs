@@ -29,16 +29,8 @@ namespace _2Iskd
 
         public (char letter, bool isSure) Identify(Bitmap bitmap)
         {
-            try
-            {
-                return (perceptrons.First(p => p.Value.Identify(bitmap)).Key, true);
-            }
-            catch (InvalidOperationException)
-            {
-
-            }
-
-            int numberOfPerceptrons = perceptrons.Count;
+           
+            int numberOfPerceptrons = perceptrons.Count;//kolvo persept
             double[] closeness = new double[numberOfPerceptrons];
             char[] letters = new char[numberOfPerceptrons];
 

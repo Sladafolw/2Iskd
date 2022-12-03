@@ -71,8 +71,7 @@ namespace _2Iskd
             var dirs = Directory.GetDirectories("C:\\Users\\slava\\source\\repos\\2Iskd\\2Iskd\\letters");
             var imagesForThisLetter = Directory.GetFiles($"C:\\Users\\slava\\source\\repos\\2Iskd\\2Iskd\\letters\\{ letter}");
             List<string> otherImages = new();
-
-            foreach (var dir in dirs)
+           foreach (var dir in dirs)
             {
                 if (dir.Last() == letter || !"ПЕТЛ".Contains(dir.Last()))
                 {
@@ -143,6 +142,7 @@ namespace _2Iskd
         {
             return Math.Abs(thresholdValue - GetNet(GetInputSignals(bitmap)));
         }
+
 
         private double GetNet(int[,] inputSignals)
         {

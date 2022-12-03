@@ -12,6 +12,7 @@ namespace _2Iskd
         {
             InitializeComponent();
             network = new(new char[] { 'Ï', 'Å', 'Ò', 'Ë' }, new double[] { 4664.570633, 6125.233988, 6104.869437, 5010.279034 });
+            pictureBox1.BackColor = Color.Gray;
             boxArtist = new(pictureBox1, new Pen(Color.Black, 20f)
             {
                 StartCap = System.Drawing.Drawing2D.LineCap.Round,
